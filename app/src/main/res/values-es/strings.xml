@@ -5,4 +5,12 @@
     <string name="facil">Fácil</string>
     <string name="medio">Normal</string>
     <string name="dificil">Dificil</string>
+    <string name="ayuda">Ayuda</string>
+    <string name="texto_ayuda">
+
+        El objetivo del juevo es evitar que la pelota caiga al suelo, tocando la pelota con el dedo. \n\n
+        Para empujar la pelota en una dirección concreta pulsaremos en la pantalla en la dirección contraria
+        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ¡ánimo!
+
+    </string>
 </resources>

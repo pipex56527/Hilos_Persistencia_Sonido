@@ -46,4 +46,10 @@
         <item name="android:onClick">dificultad</item>
     </style>
 
+    <style name="boton_Ayuda" parent="@style/texto_botones">
+        <item name="android:text">@string/ayuda</item>
+        <item name="android:onClick">ayuda</item>
+
+    </style>
+
 </resources>
