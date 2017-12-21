@@ -8,9 +8,10 @@
 
         <string name="texto_ayuda">
 
-        El objetivo del juevo es evitar que la pelota caiga al suelo, tocando la pelota con el dedo. \n\n
-        Para empujar la pelota en una dirección concreta pulsaremos en la pantalla en la dirección contraria
-        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ¡ánimo!
+        The objective of the game is to prevent the ball from falling to the ground, touching the ball with your finger. \n\n
+        To push the ball in a specific direction we must press the screen in the opposite direction.
+        \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n ¡Let's Go!
 
     </string>
+        <string name="volver">Back</string>
 </resources>
